@@ -30,24 +30,6 @@ object Luiz {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 ## Status
 
