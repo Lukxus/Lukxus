@@ -44,13 +44,14 @@ object Luiz {
 ## Conecte-se Comigo
 
 [![Website](https://img.shields.io/badge/Website-codedev.ga-1DB954?style=for-the-badge&logo=internet-explorer&logoColor=white)][website]
-[![Twitter](https://img.shields.io/badge/Twitter-SEUTWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![YouTube](https://img.shields.io/badge/YouTube-SEUYOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-[![Instagram](https://img.shields.io/badge/Instagram-SEUINSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SEULINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Alura](https://img.shields.io/badge/Alura-Perfil-0671B5?style=for-the-badge&logo=alura&logoColor=white)][alura1]
+[![Alura](https://img.shields.io/badge/Alura-Perfil-0671B5?style=for-the-badge&logo=alura&logoColor=white)][alura2]
+[![HackerRank](https://img.shields.io/badge/HackerRank-Perfil-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)][hackerrank]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Saraiva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[alura1]: https://cursos.alura.com.br/user/Luizsaraiva50
+[alura2]: https://cursos.alura.com.br/user/luiz-saraiva0
+[hackerrank]: https://www.hackerrank.com/profile/luizsaraiva50
+[linkedin]: https://www.linkedin.com/in/luiz-saraiva/
+
